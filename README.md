@@ -8,7 +8,7 @@ Link to Project(hosted through Github)
   -You must allow unsafe scripts because the connection is not secure
   https://bstehling.github.io/
 
-Data Description:
+# Data Description:
 
 For project 1 I decided to use data from the National UFO Reporting Center at www.nuforc.org/. On this website they
 have a database full of UFO reports which can be sorted by event date, state, shape of UFO, and date posted. The reports contain
@@ -21,7 +21,7 @@ their reports. I chose the top 10 most reported shapes of UFOs to use in my proj
 5 years from 2013-2017. I narrowed down the csv file to just the data that I needed for my visualization which ended up being about
 550 lines of data. Using this data, I was able to show the most viewed UFO shapes in the United States over a 5 year period.
 
-Findings:
+# Findings:
 
 The visualization of my data proved to highlight some interesting facts about the reported UFOs from 2013 to 2017. Some of the
 data was easy to explain and some was not. One of the shapes that I chose to visualize was the common shape of sphere. Often
