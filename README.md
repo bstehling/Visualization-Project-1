@@ -3,7 +3,7 @@ Project 1 for CS4331: Visualization and Visual Analytics
 
 CS4331.003: Special Topics in CS: Visualization and Visual Analytics
 
-The mp4 video is included with the repository files.
+The mp4 video is included with the repository files. The video has messed up the audio recording. Please excuse.
 
 Link to Project(hosted through Github)
   -You must allow unsafe scripts because the connection is not secure
