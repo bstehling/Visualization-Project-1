@@ -4,6 +4,7 @@ Project 1 for CS4331: Visualization and Visual Analytics
 CS4331.003: Special Topics in CS: Visualization and Visual Analytics
 
 Data Description:
+
 For project 1 I decided to use data from the National UFO Reporting Center at www.nuforc.org/. On this website they
 have a database full of UFO reports which can be sorted by event date, state, shape of UFO, and date posted. The reports contain
 a lot of information including a description of the sighting along with the time and place. I decided to categorize the reports by
@@ -16,6 +17,7 @@ their reports. I chose the top 10 most reported shapes of UFOs to use in my proj
 550 lines of data. Using this data, I was able to show the most viewed UFO shapes in the United States over a 5 year period.
 
 Findings:
+
 The visualization of my data proved to highlight some interesting facts about the reported UFOs from 2013 to 2017. Some of the
 data was easy to explain and some was not. One of the shapes that I chose to visualize was the common shape of sphere. Often
 when we see objects or bright lights in the sky, even if that may be a planet or star, they appear as spheres or balls of light.
