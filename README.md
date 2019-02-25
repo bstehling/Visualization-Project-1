@@ -3,6 +3,12 @@ Project 1 for CS4331: Visualization and Visual Analytics
 
 CS4331.003: Special Topics in CS: Visualization and Visual Analytics
 
+The mp4 video is included with the repository files.
+
+Link to Project(hosted through Github)
+  -You must allow unsafe scripts because the connection is not secure
+  https://bstehling.github.io/
+
 Data Description:
 
 For project 1 I decided to use data from the National UFO Reporting Center at www.nuforc.org/. On this website they
